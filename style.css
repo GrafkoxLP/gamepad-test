@@ -21,7 +21,7 @@ body {
 .head .index,
 .head .id {
   display: inline-block;
-  background: #222;
+  background: #343434;
   padding: 0.5em;
 }
 .head .index {
